@@ -1,0 +1,10 @@
+C:\Users\yasemin\Desktop\OOP_project1\OOP_project1\bin\Debug\OOP_project1.exe.config
+C:\Users\yasemin\Desktop\OOP_project1\OOP_project1\bin\Debug\OOP_project1.exe
+C:\Users\yasemin\Desktop\OOP_project1\OOP_project1\bin\Debug\OOP_project1.pdb
+C:\Users\yasemin\Desktop\OOP_project1\OOP_project1\obj\Debug\OOP_project1.csprojAssemblyReference.cache
+C:\Users\yasemin\Desktop\OOP_project1\OOP_project1\obj\Debug\OOP_project1.Form1.resources
+C:\Users\yasemin\Desktop\OOP_project1\OOP_project1\obj\Debug\OOP_project1.Properties.Resources.resources
+C:\Users\yasemin\Desktop\OOP_project1\OOP_project1\obj\Debug\OOP_project1.csproj.GenerateResource.cache
+C:\Users\yasemin\Desktop\OOP_project1\OOP_project1\obj\Debug\OOP_project1.csproj.CoreCompileInputs.cache
+C:\Users\yasemin\Desktop\OOP_project1\OOP_project1\obj\Debug\OOP_project1.exe
+C:\Users\yasemin\Desktop\OOP_project1\OOP_project1\obj\Debug\OOP_project1.pdb
